@@ -9,6 +9,8 @@ public class Test : MonoBehaviour
     {
 
         print("hello");
+        print(" world");
+        
         
     }
 
