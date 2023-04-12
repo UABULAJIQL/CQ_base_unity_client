@@ -8,9 +8,9 @@ public class Test : MonoBehaviour
     void Start()
     {
 
-        print("hello");
-        print(" world");
         
+        print(" world");
+
         
     }
 
